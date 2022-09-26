@@ -1,0 +1,25 @@
+subgroup,auc(95%CI),threshold,specificity,sensitivity,youden,variable,auc(95%CI)
+hypertensive vs non_hypertensive,0.511(0.432-0.59),0.577,0.633,0.47,0.103,46898116,0.511
+hypertensive vs non_hypertensive,0.482(0.405-0.56),0.677,0.981,0.048,0.029,46898066,0.482
+hypertensive vs non_hypertensive,0.532(0.454-0.609),0.861,0.652,0.422,0.074,46898048,0.532
+hypertensive vs non_hypertensive,0.513(0.436-0.591),0.832,0.538,0.518,0.056,46898042,0.513
+hypertensive vs non_hypertensive,0.515(0.439-0.592),0.851,0.304,0.795,0.099,46898024,0.515
+hypertensive vs non_hypertensive,0.478(0.402-0.554),0.922,0.367,0.675,0.042,46898006,0.478
+hypertensive vs non_hypertensive,0.53(0.454-0.606),0.899,0.253,0.855,0.109,46898004,0.53
+hypertensive vs non_hypertensive,0.517(0.439-0.594),0.874,0.892,0.181,0.073,cg15692052_average,0.517
+Interstitial lung disease vs non_Interstitial lung disease,0.521(0.275-0.768),0.573,0.447,0.833,0.28,46898116,0.521
+Interstitial lung disease vs non_Interstitial lung disease,0.703(0.555-0.85),0.823,0.489,1,0.489,46898066,0.703
+Interstitial lung disease vs non_Interstitial lung disease,0.704(0.543-0.865),0.858,0.617,0.833,0.45,46898048,0.704
+Interstitial lung disease vs non_Interstitial lung disease,0.676(0.494-0.858),0.834,0.553,0.833,0.387,46898042,0.676
+Interstitial lung disease vs non_Interstitial lung disease,0.613(0.423-0.804),0.869,0.391,1,0.391,46898024,0.613
+Interstitial lung disease vs non_Interstitial lung disease,0.57(0.348-0.791),0.886,0.26,1,0.26,46898006,0.57
+Interstitial lung disease vs non_Interstitial lung disease,0.597(0.426-0.768),0.916,0.413,1,0.413,46898004,0.597
+Interstitial lung disease vs non_Interstitial lung disease,0.616(0.422-0.811),0.798,0.302,1,0.302,cg15692052_average,0.616
+osteoporosis vs non_osteoporosis,0.502(0.414-0.59),0.541,0.379,0.717,0.097,46898116,0.502
+osteoporosis vs non_osteoporosis,0.522(0.426-0.618),0.824,0.533,0.587,0.12,46898066,0.522
+osteoporosis vs non_osteoporosis,0.517(0.424-0.611),0.829,0.615,0.5,0.115,46898048,0.517
+osteoporosis vs non_osteoporosis,0.537(0.442-0.632),0.827,0.559,0.587,0.146,46898042,0.537
+osteoporosis vs non_osteoporosis,0.552(0.455-0.649),0.87,0.641,0.5,0.141,46898024,0.552
+osteoporosis vs non_osteoporosis,0.548(0.453-0.644),0.895,0.687,0.5,0.187,46898006,0.548
+osteoporosis vs non_osteoporosis,0.534(0.442-0.626),0.916,0.615,0.543,0.159,46898004,0.534
+osteoporosis vs non_osteoporosis,0.527(0.432-0.622),0.816,0.595,0.543,0.138,cg15692052_average,0.527
